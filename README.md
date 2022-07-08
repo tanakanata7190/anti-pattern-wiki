@@ -5,7 +5,7 @@
 
 以下のURLよりアクセス可能。（GitHub Pagesにて公開）
 
-- https://tanakanata7190.github.io/anti-pattern-wiki/
+- https://tanakanata7190.github.io/anti-pattern-wiki/mdwiki.html#!index.md
 
 
 ## 【メモ：MDWikiの使い方】
